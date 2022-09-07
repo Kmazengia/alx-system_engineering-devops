@@ -1,0 +1,2 @@
+#!/bin/bas
+printf "%.2f" $NUM | sort
