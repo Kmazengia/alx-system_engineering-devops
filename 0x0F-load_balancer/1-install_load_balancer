@@ -11,7 +11,7 @@ echo "frontend web-front
 
 backend web-backend
         balance roundrobin
-        server web1 35.227.47.184:80 check
-        server web2 35.190.188.208:80 check
+        server web-01 35.227.47.184:80 check
+        server web-02 35.190.188.208:80 check
 " | sudo tee -a /etc/haproxy/haproxy.cfg
 sudo service haproxy start
