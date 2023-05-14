@@ -97,7 +97,7 @@ for his own personal inquiry into the status of another site.
 
 ## Timeline
 
-2023-05-14 (*all times PST*)
+2023-05-14
 
 | Time  | Description |
 | ----- | ----------- |
