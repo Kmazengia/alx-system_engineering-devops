@@ -70,10 +70,10 @@ for his own personal inquiry into the status of another site.
 | Action Item | Type | Owner | Bug |
 | ----------- | ---- | ----- | --- |
 | Setup automatic testing through Travis CI in github | mitigate | Ababe | n/a **DONE** |
-| Develop code review framework which includes local test | prevent | Ayele | Bug 5554823 **TODO** |
+| Develop code review framework which includes local test | prevent | Ayele | Bug 1567 **TODO** |
 | Develop dummy site for 500 Internal Server redirect, potentially using other website status apis for info rather than ours | alternative action |solomon | n/a **TODO** |
-| Use development site for real testing prior to production deployment| prevent | Abebe | Bug 5554824 **TODO** |
-| Facilitate communication between SRE and backend departments for more robust development | prevent | keleme | Bug 5554825 **DONE** |
+| Use development site for real testing prior to production deployment| prevent | Abebe | Bug 1568 **TODO** |
+| Facilitate communication between SRE and backend departments for more robust development | prevent | keleme | Bug 1569 **DONE** |
 | Deploy updated wordpress site to prod | prevent | Abebe | n/a **DONE** |
 | Develop monitoring and detection tools for quicker detection of issue | mitigate | SRE Team | n/a **TODO** |
 
